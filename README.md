@@ -87,11 +87,19 @@ As an enthusiastic and versatile FullStack & DevOps developer, I excel at seamle
 
 - 🌍 [Website](https://www.google.com/search?q=How+to+reach+White+Poodle+Moth%3F)
 
-## 📈 GitHub Stats
-
 <p align="center">
-  <a href="https://github.com/WhitePoodleMoth">
-    <img src="https://github-readme-stats.vercel.app/api?username=WhitePoodleMoth&show_icons=true&theme=gotham" alt="WhitePoodleMoth's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhitePoodleMoth&theme=gotham" alt="WhitePoodleMoth's GitHub Streak" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/WhitePoodleMoth">
+          <img src="https://github-readme-stats.vercel.app/api?username=WhitePoodleMoth&show_icons=true&theme=gotham" alt="WhitePoodleMoth's GitHub Stats" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/WhitePoodleMoth">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhitePoodleMoth&theme=gotham" alt="WhitePoodleMoth's GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
