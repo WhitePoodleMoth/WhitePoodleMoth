@@ -83,10 +83,6 @@ As an enthusiastic and versatile FullStack & DevOps developer, I excel at seamle
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
 ![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)
 
-## 📫 How to reach me
-
-- 🌍 [Website](https://www.google.com/search?q=How+to+reach+White+Poodle+Moth%3F)
-
 <p align="center">
   <table>
     <tr>
