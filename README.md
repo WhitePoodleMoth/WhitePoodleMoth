@@ -82,7 +82,16 @@ As an enthusiastic and versatile FullStack & DevOps developer, I excel at seamle
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
 ![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)
-  
+
 ## 📫 How to reach me
 
 - 🌍 [Website](https://www.google.com/search?q=How+to+reach+White+Poodle+Moth%3F)
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/WhitePoodleMoth">
+    <img src="https://github-readme-stats.vercel.app/api?username=WhitePoodleMoth&show_icons=true&theme=gotham" alt="WhitePoodleMoth's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhitePoodleMoth&theme=gotham" alt="WhitePoodleMoth's GitHub Streak" />
+  </a>
+</p>
