@@ -60,6 +60,11 @@ In the realm of professional practice, my focus extends to leading multidiscipli
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
 ![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)
 
+#### Language Proficiency
+![English US](https://img.shields.io/badge/🇺🇸%20English-4D4D4D?style=for-the-badge) <!-- Estados Unidos -->
+![Русский RU](https://img.shields.io/badge/🇷🇺%20Русский-4D4D4D?style=for-the-badge) <!-- Russia -->
+![Português BR](https://img.shields.io/badge/🇧🇷%20Português-4D4D4D?style=for-the-badge) <!-- Brasil -->
+
 <p align="center">
   <table>
     <tr>
