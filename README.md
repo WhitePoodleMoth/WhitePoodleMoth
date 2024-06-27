@@ -11,8 +11,8 @@
             <h2>🚀 Visionary Technologist & Strategic Leader</h2>
             <p>I am WhitePoodleMoth, a master of technological innovation and strategic foresight. My journey began with a passion for technology that has grown into a career marked by groundbreaking projects and strategic leadership. Over a decade of relentless pursuit of excellence has sculpted me into a leader capable of transforming visions into reality.</p>
         </div>
-        <div class="section" align="center">
-            <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" alt="Tech GIF">
+        <div class="section" align="center" style="width: 100%; height: 200px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+            <img src="https://private-user-images.githubusercontent.com/74038190/238200121-6357eb37-3a0e-4efe-b015-ce8b14e910d6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk1MDA1OTksIm5iZiI6MTcxOTUwMDI5OSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDAxMjEtNjM1N2ViMzctM2EwZS00ZWZlLWIwMTUtY2U4YjE0ZTkxMGQ2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI3VDE0NTgxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRiZjYwZWU1OTRkZWUzMjEyZTRhOTRlYWZhMTBkOTFhM2VjYjM5YTYzMzhhMWRkMmVhYzMwMDRiYmVhZTE1ZTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.JYYNVX247bN2rdXn_nNr4WEkjFKYRJyQdIASKYH7nVM" style="min-width: 100%; min-height: 100%; object-fit: cover;">
         </div>
         <div class="section">
             <h2>🛡️ Architect of Digital Transformation</h2>
