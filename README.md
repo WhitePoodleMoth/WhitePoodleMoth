@@ -56,8 +56,5 @@
             <p>Are you ready to embark on a journey of innovation and excellence? Whether you're a fellow developer, a visionary CEO, or an industry leader, let's collaborate and turn your vision into reality. Together, we can achieve unprecedented success and drive the future of technology.</p>
         </div>
     </div>
-    <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=WhitePoodleMoth&color=blue&style=flat" alt="Profile Views">
-    </p>
 </body>
 </html>
