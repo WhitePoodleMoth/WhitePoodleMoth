@@ -31,7 +31,7 @@ If you sense the shift, if you see what others overlook, the time to act is now.
 
 ---
 
-> *"The future is decentralized, intelligent, and waiting to be claimed. The question is: will you shape it or be shaped by it?"*  
+> *"The future waits for no one. Will you shape it, or will it shape you?"*  
 
 ---
 
