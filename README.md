@@ -27,7 +27,7 @@ There’s no roadmap to a decentralized future or a blueprint for machines that 
 - To imbue machines with the precision of thought.  
 - To craft systems that evolve, adapt, and endure.  
 
-If you sense the shift, if you see what others overlook, the time to act is now.  
+If you see the shift, if you can perceive what others miss, then know this: the moment to act is now — or be left in the wake of those who will.
 
 ---
 
