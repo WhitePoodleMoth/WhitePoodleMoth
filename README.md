@@ -14,7 +14,7 @@ To build these systems is to challenge the status quo, to turn complexity into e
 
 ---
 
-> *"To trust code is to trust the unseen — and to shape it is to hold the keys to a new age."*  
+> *"To trust code is to trust the invisible. To shape it is to hold the keys to an era unbound by time or limitation."*  
 
 ---
 
